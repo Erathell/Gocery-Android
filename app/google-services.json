@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576118299868",
+    "project_id": "gocery-a388c",
+    "storage_bucket": "gocery-a388c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576118299868:android:717659a7efdd6ae3d86819",
+        "android_client_info": {
+          "package_name": "com.system.gocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576118299868-jk79vdc351talj2q7v9ed5qegdt8da4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9FAIrSdnh_Morjx_iYfrd8ucNsifSnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576118299868-jk79vdc351talj2q7v9ed5qegdt8da4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
